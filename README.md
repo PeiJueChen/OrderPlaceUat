@@ -14,7 +14,7 @@ XXX is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'testOrderPlaceSDK', '~> 0.0.1'
+pod 'OrderPlaceUat', '~> 0.0.1'
 ```
 
 ## Author
