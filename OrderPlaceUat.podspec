@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name = "OrderPlaceUat"
-  s.version = "0.0.1"
+  s.version = "0.0.2"
   s.summary = "Order Place Uat"
 
   s.description = <<-DESC
